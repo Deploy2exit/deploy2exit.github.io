@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.idea-form input, .idea-form button {
+    margin-bottom: 10px;
+}
+
+.ideas ul {
+    list-style: none;
+    padding: 0;
+}
+
+.ideas li {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.comment-form input, .comment-form button {
+    margin-top: 5px;
+}
