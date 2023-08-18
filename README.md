@@ -1,6 +1,6 @@
 # Venus
 
-A landing page template.
+A landing page template. Can be access here: https://deploy2exit.github.io/
 
 * [Getting started](#getting-started)
 
